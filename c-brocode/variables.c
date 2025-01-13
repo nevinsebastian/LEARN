@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-  int x; // declataion
+  int x; // declataio
   x = 5; // initialization
 
   int y = 10;   // declaration + initialization
