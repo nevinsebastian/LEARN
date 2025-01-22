@@ -2,7 +2,7 @@
 #include<stdbool.h>
 
 int main(){
-  char a = 'c'; // single character %c
+  char a = 'c'; // single caracter %c
   char b[] = "Bro"; // array of characters %s
 
   float c = 33.333333; // 4 bytes 6-7 digits %f
